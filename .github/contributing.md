@@ -1,6 +1,6 @@
 # Contributing
 
-This project is aimed for new developers who are looking to better their HTML and CSS skills and put to practice their fundamentals. Read below and learn how to contribute to Genesis.
+Read below and learn how to contribute to Genesis.
 
 ## Table of Contents
 
@@ -15,8 +15,7 @@ This project is aimed for new developers who are looking to better their HTML an
 
 ## Open an Issue
 
-[Open an Issue](https://github.com/milligram/milligram/issues/new) to report any problems or improvements. When necessary, use [Codepen](http://codepen.io/) to show the problem. Be sure to include some description to explain the problem.
-
+[Open an Issue](https://github.com/costaleonardo/css-genesis-framework/issues/new) to report any problems or improvements. When necessary, use [Codepen](http://codepen.io/) to show the problem. Be sure to include some description to explain the problem.
 
 ## Submit a Pull Request
 
@@ -24,14 +23,11 @@ To submit a new feature, make sure that changes are done to the source code. [Fo
 
 Try to solve a problem for each pull request, this increases the chances of acceptance. When in doubt, open a [new issue](#open-an-issue) so we can answer you. Look existing issues for ideas or to see if a similar issue has already been submitted.
 
-1. Fork the Github repo: `git clone https://github.com/milligram/milligram.git`
+1. Fork the Github repo: `git clone https://github.com/costaleonardo/css-genesis-framework`
 1. Create a new branch: `git checkout -b issuenumber-feature-name`
 1. Commit your changes: `git commit -m 'issuenumber-feature-name'`
 1. Push to the branch: `git push origin my-feature-name`
 1. Submit a pull request!
-
-*Note: For issues relating to the site, please use the [milligram.github.io](https://github.com/milligram/milligram.github.io)*
-
 
 ## Building
 
@@ -77,14 +73,10 @@ Milligram use [Sass](http://sass-lang.com/) to give super powers to CSS. Look at
 			color: #000
 ```
 
-*Note: This style guide was inspired by [Idiomatic.css](https://github.com/necolas/idiomatic-css). Milligram uses an `.editorconfig` file, which most editors support, to enforce these coding standards.*
-
-
 ## Code of Conduct
 
-Help us keep Milligram open and inclusive. Please read and follow our thoughts on [Code of Conduct](http://confcodeofconduct.com/).
-
+Help us keep Genesis open and inclusive. Please read and follow our thoughts on [Code of Conduct](http://confcodeofconduct.com/).
 
 ## License
 
-By contributing your code, you agree to license your contribution under the [MIT license](https://github.com/milligram/milligram#license).
+By contributing your code, you agree to license your contribution under the [MIT license](https://opensource.org/licenses/MIT).
