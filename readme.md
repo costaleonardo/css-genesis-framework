@@ -1,4 +1,4 @@
-<a align="center" href="https://github.com/costaleonardo/css-genesis-framework"><img width="100%" src="https://github.com/costaleonardo/css-genesis-framework/blob/master/.github/images/genesis-logo.png" alt="Genesis - A CSS framework"></a>
+<a align="center" href="https://github.com/costaleonardo/css-genesis-framework"><img width="100%" height="600px" src="https://github.com/costaleonardo/css-genesis-framework/blob/master/.github/images/genesis-logo.png" alt="Genesis - A CSS framework"></a>
 
 
 > A CSS framework based on Material Design.
