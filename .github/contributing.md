@@ -1,7 +1,6 @@
 # Contributing
 
-We would love for you to contribute to Milligram and help us make this even better! Start reading this document to see it is not difficult as you might have imagined.
-
+This project is aimed for new developers who are looking to better their HTML and CSS skills and put to practice their fundamentals. Read below and learn how to contribute to Genesis.
 
 ## Table of Contents
 
