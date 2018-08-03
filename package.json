@@ -7,26 +7,26 @@
     "sass:watch": "node-sass -w --output-style expanded src/genesis.scss dist/genesis.css && node-sass --output-style compressed src/genesis.scss dist/genesis.min.css"
   },
   "keywords": [
-		"css",
-		"css3",
-		"flexbox",
-		"front-end",
-		"framework",
-		"html",
-		"html5",
-		"kickstarter",
-		"responsive",
-		"mobile",
-		"mobile-first",
-		"responsive",
-		"sass",
-		"scss"
-	],
+    "css",
+    "css3",
+    "flexbox",
+    "front-end",
+    "framework",
+    "html",
+    "html5",
+    "kickstarter",
+    "responsive",
+    "mobile",
+    "mobile-first",
+    "responsive",
+    "sass",
+    "scss"
+  ],
   "ignore": [
-		".github",
-		".gitignore",
-		"package.json"
-	],
+    ".github",
+    ".gitignore",
+    "package.json"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/costaleonardo/css-genesis-framework.git"
@@ -36,5 +36,10 @@
   "bugs": {
     "url": "https://github.com/costaleonardo/css-genesis-framework/issues"
   },
-  "homepage": "https://github.com/costaleonardo/css-genesis-framework#readme"
+  "homepage": "https://github.com/costaleonardo/css-genesis-framework#readme",
+  "dependencies": {
+    "autoprefixer-core": "^6.0.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1"
+  }
 }
