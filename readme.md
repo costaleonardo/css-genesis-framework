@@ -29,19 +29,19 @@ $ yarn add genesis
 ## Table of Contents
 
 - [Getting Started]() - In Progress
-- [Alerts]() - In Progress
-- [Badge]() - In Progress
-- [Breadcrumb]() - In Progress
+<!-- - [Alerts]() - In Progress -->
+<!-- - [Badge]() - In Progress -->
+<!-- - [Breadcrumb]() - In Progress -->
 - [Browser Support]() - In Progress
 - [Buttons]() - In Progress
-- [Card]() - In Progress
-- [Forms]() - In Progress
+<!-- - [Card]() - In Progress -->
+<!-- - [Forms]() - In Progress -->
 - [Grids]() - In Progress
-- [Jumbotron]() - In Progress
-- [Navs]() - In Progress
-- [Pagination]() - In Progress
+<!-- - [Jumbotron]() - In Progress -->
+<!-- - [Navs]() - In Progress -->
+<!-- - [Pagination]() - In Progress -->
 - [Typography]() - In Progress
-- [Utilities]() - In Progress
+<!-- - [Utilities]() - In Progress -->
 
 ## Contributing
 
