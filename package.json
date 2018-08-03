@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "CSS framework for Front-End development.",
   "main": "index.js",
-  "scripts": {
-    "sass:watch": "node-sass -w --output-style expanded src/genesis.scss dist/genesis.css && node-sass --output-style compressed src/genesis.scss dist/genesis.min.css"
-  },
   "keywords": [
     "css",
     "css3",
@@ -40,6 +37,10 @@
   "dependencies": {
     "autoprefixer-core": "^6.0.1",
     "gulp": "^3.9.1",
-    "gulp-postcss": "^7.0.1"
+    "gulp-clean-css": "^3.9.4",
+    "gulp-js-minify": "^0.0.3",
+    "gulp-postcss": "^7.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1"
   }
 }
