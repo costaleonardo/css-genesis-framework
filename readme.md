@@ -2,25 +2,25 @@
 
 > A CSS framework based on Material Design.
 
-# Help us build Genesis !
+# Help build Genesis !
 
-Genesis is an open source project for new Front-End developers who are looking to better their HTML and CSS skills and to contribute to open source projects. This framework is based on [Material Design](https://material.io/design/).
+Genesis is an open source project for new developers who are looking to better their HTML and CSS fundamentals and contribute to open source projects. This framework is based on [Material Design](https://material.io/design/).
 
 ## Download
 
-**Install with Bower**
+**Install with Bower** - In Progress
 
 ```sh
 $ bower install genesis
 ```
 
-**Install with npm**
+**Install with npm** - In Progress
 
 ```sh
 $ npm install genesis
 ```
 
-**Install with Yarn**
+**Install with Yarn** - In Progress
 
 ```sh
 $ yarn add genesis
