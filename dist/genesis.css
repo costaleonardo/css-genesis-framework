@@ -2,6 +2,20 @@
  * Genesis v1.0.0 (https://github.com/costaleonardo/css-genesis-framework)
  * Licensed under MIT (https://opensource.org/licenses/MIT)
  */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
@@ -38,16 +52,6 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-}
-
-html {
-  box-sizing: border-box;
-}
-
-*,
-*::before,
-*::after {
-  box-sizing: inherit;
 }
 
 .container {
