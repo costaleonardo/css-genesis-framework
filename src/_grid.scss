@@ -2,6 +2,16 @@
 // Grid system
 //
 
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
 // Set the container width, and override it for fixed navbars in media queries
 @if $enable-grid-classes {
   .container {
