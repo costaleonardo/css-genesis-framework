@@ -40,7 +40,7 @@ $ yarn add genesis
 <!-- - [Card]() - In Progress -->
 <!-- - [Forms]() - In Progress -->
 <!-- - [Jumbotron]() - In Progress -->
-<!-- - [Navs]() - In Progress -->
+<!-- - [Nav]() - In Progress -->
 <!-- - [Pagination]() - In Progress -->
 <!-- - [Utilities]() - In Progress -->
 
@@ -57,3 +57,5 @@ See also the list of [contributors](https://github.com/costaleonardo/css-genesis
 ## License
 
 Designed by [Leonardo Da Costa](https://costaleonardo.github.io/). Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+Check out the new logo that I created on <a href="http://logomakr.com" title="Logo Makr">LogoMakr.com</a> https://logomakr.com/7fulei

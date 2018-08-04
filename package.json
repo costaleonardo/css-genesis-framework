@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "CSS framework for Front-End development.",
   "main": "index.js",
+  "scripts": {
+      "sass": "node-sass --output-style expanded src/genesis.sass dist/genesis.css && node-sass --output-style compressed src/genesis.sass dist/genesis.min.css",
+      "sass:watch": "node-sass -w --output-style expanded src/genesis.scss dist/genesis.css && node-sass --output-style compressed src/genesis.scss dist/genesis.min.css"
+  },
   "keywords": [
     "css",
     "css3",
@@ -33,14 +37,5 @@
   "bugs": {
     "url": "https://github.com/costaleonardo/css-genesis-framework/issues"
   },
-  "homepage": "https://github.com/costaleonardo/css-genesis-framework#readme",
-  "dependencies": {
-    "autoprefixer-core": "^6.0.1",
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^3.9.4",
-    "gulp-js-minify": "^0.0.3",
-    "gulp-postcss": "^7.0.1",
-    "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.0.1"
-  }
+  "homepage": "https://github.com/costaleonardo/css-genesis-framework#readme"
 }
