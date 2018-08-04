@@ -4,8 +4,9 @@
   "description": "CSS framework for Front-End development.",
   "main": "index.js",
   "scripts": {
-      "sass": "node-sass --output-style expanded src/genesis.sass dist/genesis.css && node-sass --output-style compressed src/genesis.sass dist/genesis.min.css",
-      "sass:watch": "node-sass -w --output-style expanded src/genesis.scss dist/genesis.css && node-sass --output-style compressed src/genesis.scss dist/genesis.min.css"
+    "sass:compile": "node-sass --output-style expanded src/genesis.scss dist/genesis.css && node-sass --output-style compressed src/genesis.scss dist/genesis.min.css",
+    "sass:watch": "node-sass -w --output-style expanded src/genesis.scss dist/genesis.css && node-sass --output-style compressed src/genesis.scss dist/genesis.min.css",
+    "css:autoprefixer": "postcss dist/*.css --use autoprefixer --dir dist"
   },
   "keywords": [
     "css",
